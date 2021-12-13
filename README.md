@@ -1,2 +1,2 @@
-# PFI-Final_Simon-Leroux
+# PFI Final-Simon Leroux
 Pfi de web final
